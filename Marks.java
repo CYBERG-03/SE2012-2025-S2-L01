@@ -168,6 +168,7 @@ public class Marks {
 
                 case 7:
                     System.out.println("\nEnd of Program.");
+                    input.close();
                     return;
                 
                 default:
